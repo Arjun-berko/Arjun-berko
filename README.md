@@ -28,9 +28,9 @@ I'm a former Mechanical Engineering graduate turned tech enthusiast. In 2022, I 
 
 👇 Here are some of my noteworthy projects:
 
-1. [Collaborative Writing App]([https://github.com/yourusername/collaborative-writing-app](https://github.com/Arjun-berko/Wordsmiths-Guild)) - A full-stack project using Django, DRF, and React. This app allows multiple users to collaborate on writing projects.
+1. [Collaborative Writing App](https://github.com/Arjun-berko/Wordsmiths-Guild) - A full-stack project using Django, DRF, and React. This app allows multiple users to collaborate on writing projects.
 
-2. [Project XYZ]([https://github.com/yourusername/project-xyz](https://github.com/Arjun-berko/Arjun-Journal-App)) - An online journalling app, deployed through Heroku
+2. [Project XYZ](https://github.com/Arjun-berko/Arjun-Journal-App) - An online journalling app, deployed through Heroku
 
 ## Skills
 
