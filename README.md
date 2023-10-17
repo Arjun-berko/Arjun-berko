@@ -53,7 +53,7 @@ I'm a former Mechanical Engineering graduate turned tech enthusiast. In 2022, I 
 
 📫 You can connect with me on:
 
-- [LinkedIn]([https://www.linkedin.com/in/arjunnarayanan/](https://www.linkedin.com/in/arjun-narayanan7/))
+- [LinkedIn](https://www.linkedin.com/in/arjunnarayanan/](https://www.linkedin.com/in/arjun-narayanan7/)
 - [Twitter](https://twitter.com/yourusername)
 - [Personal Website](https://www.arjunnarayanan.com)
 
