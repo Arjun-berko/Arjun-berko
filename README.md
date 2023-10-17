@@ -30,7 +30,7 @@ I'm a former Mechanical Engineering graduate turned tech enthusiast. In 2022, I 
 
 1. [Collaborative Writing App](https://github.com/Arjun-berko/Wordsmiths-Guild) - A full-stack project using Django, DRF, and React. This app allows multiple users to collaborate on writing projects.
 
-2. [Project XYZ](https://github.com/Arjun-berko/Arjun-Journal-App) - An online journalling app, deployed through Heroku
+2. [Online Journal](https://github.com/Arjun-berko/Arjun-Journal-App) - An online journalling app, deployed through Heroku
 
 ## Skills
 
