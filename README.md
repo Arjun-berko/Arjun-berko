@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>Driven and forward-thinking, I am a Mechanical Engineering graduate who discovered a passion for backend web development. Always eager for new challenges, I decided to pursue this field due to its dynamic nature and immense future opportunities. Over the past five months, I've dedicated myself to learning Python and Django, among other software, while maintaining a high level of discipline and consistency.
+
+Through rigorous self-study and problem-solving, I've developed a firm understanding of backend concepts, algorithms, and data structures. This transition from Engineering to Web Development has allowed me to apply my problem-solving skills in a whole new context, offering a unique perspective and approach.
+
+As a quick learner with a deep desire to grow, I'm seeking entry-level or junior backend developer roles where I can continue to expand my skills while contributing to a forward-thinking team. I bring to the table a strong work ethic, a thirst for knowledge, and an ability to quickly adapt to new environments.
+
+With a foundation built on a strong engineering background and fortified by my new coding skills, I am ready and eager to contribute to meaningful projects and learn from industry professionals.</p>
