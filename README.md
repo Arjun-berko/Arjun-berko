@@ -47,15 +47,12 @@ I'm a former Mechanical Engineering graduate turned tech enthusiast. In 2022, I 
 - HTML
 - CSS
 - Bootstrap
-- Your Other Skills...
 
 ## Connect with Me
 
 📫 You can connect with me on:
+[LinkedIn](https://www.linkedin.com/in/arjun-narayanan7/)
 
-- [LinkedIn](https://www.linkedin.com/in/arjun-narayanan7/)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://www.arjunnarayanan.com)
 
 Feel free to explore my repositories, reach out for collaboration, or just say hello. I'm always excited to meet fellow tech enthusiasts and explore new opportunities.
 
